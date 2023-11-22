@@ -21,7 +21,7 @@
 
 ## Download
 
-[![Latest Release v1.1-Beta / 23/11/2023](https://img.shields.io/badge/Download-v1.1-Beta-blue)](https://drive.google.com/file/d/1E3t0IgzNFH3lrEAyp1u-utUJrqi7ep0h/view?usp=drive_link)
+[![Latest Release v1.1-Beta / 23/11/2023](https://img.shields.io/badge/Download-v1.1Beta-blue)](https://drive.google.com/file/d/1E3t0IgzNFH3lrEAyp1u-utUJrqi7ep0h/view?usp=drive_link)
 
 ## Installation
 
