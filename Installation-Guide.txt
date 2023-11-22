@@ -1,0 +1,40 @@
+# ========================================================================
+
+# Mobile Legends Bang Bang All Tweaks for Smartphone [root] and [non-root]
+# Name      : MLBB Tweaks Performance
+# Author    : Algorithm Dev / Kreapic (t.me/algorithmdev)
+# Version   : 1.0-Beta
+
+# ========================================================================
+# Tweaks Description
+
+MLBB Tweaks : Merupakan sebuah tweaks yang berfungsi untuk meningkatkan kinerja ponsel dalam bermain game (Mobile Legends).
+
+# ========================================================================
+# Notes
+
+Perlu diperhatikan!!
+
+Gunakan tweaks hanya saat akan bermain Mobile Legends, hal ini untuk menghindari borosnya penggunaan battery. jangan mengubah apapun dalam script.
+
+* Segala macam bentuk kerusakan yang di timbulkan tweak ini bukan tanggung jawab saya.
+* Resiko adalah milik anda (DWYOR!).
+* Sebelum melakukan installasi mohon perhatikan script pada FILE ini dan riset apakah cocok atau tidak dengan perangkat anda.
+
+# ========================================================================
+# Installation Guide :
+
+* Ekstrak tweak yang sudah di download [MLBB-Tweaks.zip] ke dalam folder penyimpanan internal (Luar folder).
+* Gunakan terminal emulator (brevent, ladb, termux) untuk melakukan instalasi.
+* Beri permission File ( chmod +x /MLBB-Tweaks/setup.sh )
+* Run installasi : sh /sdcard/MLBB-Tweaks/setup.sh
+* Jangan reboot perangkat anda setelah installasi sukses.
+
+# ========================================================================
+# Uninstall Guide :
+
+* Gunakan terminal emulator (brevent, ladb, termux) untuk melakukan instalasi.
+* Beri permission File ( chmod +x /MLBB-Tweaks/uninstall.sh )
+* Run Uninstall : sh/sdcard/MLBB-Tweaks/uninstall.sh
+* REBOOT Perangkat setelah uninstall sukses.
+
