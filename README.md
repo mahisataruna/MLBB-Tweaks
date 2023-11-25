@@ -1,8 +1,8 @@
 <h1 align="center">MLBB Tweaks</h1>
-<p align="center"><b>Version 1.0-Beta</b></p>
+<p align="center"><b>Version 1.0.1-Beta</b></p>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Updated-2023/11/23-blue.svg?longCache=true&style=popout-round"/>
+    <img src="https://img.shields.io/badge/Updated-2023/11/25-blue.svg?longCache=true&style=popout-round"/>
     <img src="https://img.shields.io/badge/Magisk-Module-green.svg?longCache=true&style=flat-round"/>
     <h3>
         MLBB Tweak berfungsi meningkatkan kinerja ponsel saat bermain game Mobile Legends Bang-Bang untuk ponsel [root] dan [non-root].
@@ -21,7 +21,7 @@
 
 ## Download
 
-[![Latest Release v1.1-Beta / 23/11/2023](https://img.shields.io/badge/Download-v1.1Beta-blue)](https://drive.google.com/file/d/1E3t0IgzNFH3lrEAyp1u-utUJrqi7ep0h/view?usp=drive_link)
+[![Latest Release v1.0.1-Beta / 23/11/2023](https://img.shields.io/badge/Download-v1.0Beta-blue)](https://drive.google.com/file/d/1kp6r4rIbhl_ROrRX_ygg38mrSYEBnBJ9/view?usp=drive_link)
 
 ## Installation
 

@@ -72,9 +72,10 @@ echo " 🕗 : Disable GPU Throttling              [OK] "
 # End Installation
 sleep 2
 # Change GPU Performance
-setprop debug.compotition.type c2d
 setprop debug.compotition.type gpu
-setprop debug.gr.swapinterval 60
+setprop debug.compotition.type c2d
+setprop debug.hwui.renderer skiagl
+setprop debug.gr.swapinterval 90
 setprop debug.gr.numframebuffers 3
 echo " 🕗 : Enable GPU Turbo Performance        [OK] "
 
@@ -122,6 +123,13 @@ setprop debug.sf.showbackground 0
 setprop debug.sf.shoupdates 0
 echo " 🕗 : Disable FPS Sync                    [OK] "
 
+echo " "
+sleep 2
+# Change render engine to SKIAGL
+setprop debug.renderengine.backend skiagl
+setprop debug.renderengine.backend skiaglthreaded
+echo " 🕗 : Enable Render Engine                [OK] "
+
 sleep 2
 echo " "
 echo "                        ▒▒▒▒ NOTES ▒▒▒▒                        "
@@ -144,3 +152,4 @@ exit
 
 # ========================================================================
 # Thank you!
+# Update : 20231125 | 12.38
