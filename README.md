@@ -25,11 +25,11 @@
 
 ## Installation
 
-- Installation Guide [here](https://github.com/mahisataruna/MLBB-Tweaks/v1.0-Beta/Installation-Guide.txt)
+- Installation Guide [here](https://github.com/mahisataruna/MLBB-Tweaks/blob/v1.0-Beta/Installation-Guide.txt)
 
 ## Changelog
 
-- Check out what's new [here](https://github.com/mahisataruna/MLBB-Tweaks/v1.0-Beta/CHANGELOG.md)
+- Check out what's new [here](https://github.com/mahisataruna/MLBB-Tweaks/blob/v1.0-Beta/CHANGELOG.md)
 
 ## Link
 
