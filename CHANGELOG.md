@@ -1,5 +1,13 @@
 <h1 align="center">Changelog :</h1>
 
+### Version 1.0.2-Beta
+
+- Change stabilization FPS method
+- Change view scroll value
+- Add new value thermal throttling
+- Add vsync disabler
+- ETC
+
 ### Version 1.0.1-Beta
 
 - Debug compotition to GPU

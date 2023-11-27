@@ -4,7 +4,7 @@
 # Mobile Legends Bang Bang All Tweaks for Smartphone [root] and [non-root]
 # Name      : MLBB Tweaks Performance
 # Author    : Algorithm Dev / Kreapic (t.me/algorithmdev)
-# Version   : 1.0-Beta
+# Version   : 1.0.2-Beta
 
 # ========================================================================
 
@@ -19,7 +19,7 @@ sleep 0.5
 echo "                 Telegram : @algorithmdev                      "
 echo " "
 sleep 0.5
-echo "                     Version 1.0-Beta                          "
+echo "                     Version 1.0.2-Beta                          "
 echo " "
 sleep 0.5
 echo " "
@@ -67,6 +67,7 @@ sleep 2
 # Disable GPU Throttling/Thermal 
 
 echo 0 > /sys/class/kgsl/kgsl-3d0/throttling
+echo 1 > /sys/class/kgsl/kgsl-30/force_clk_on
 echo " 🕗 : Disable GPU Throttling              [OK] "
 
 # End Installation
@@ -77,12 +78,22 @@ setprop debug.compotition.type c2d
 setprop debug.hwui.renderer skiagl
 setprop debug.gr.swapinterval 90
 setprop debug.gr.numframebuffers 3
+setprop debug.egl.buffcount 4
 echo " 🕗 : Enable GPU Turbo Performance        [OK] "
+
+sleep 2
+# Change disable vsync cpu and gpu
+# value 1   : Enable
+# value 0   : Disable
+setprop hwui.disable.vsync true
+setprop debug.cpurend.vsync 0
+setprop debug.gpurend.vsync 0
+echo " 🕗 : Disable GPU and CPU VSYNC           [OK] "
 
 sleep 2
 # Enable Touch Improvement / sampling rate
 
-setprop touch.pressure.scale=0.001
+setprop touch.pressure.scale=0.0001
 setprop touch.size.calibration=diameter
 setprop touch.pressure.calibration=amplitude
 setprop touch.size.scale=1
@@ -100,7 +111,7 @@ setprop MultitouchMinDistance=1px
 setprop TapInterval=1ms 
 setprop TapSlop=1px
 setprop windowsmgr.max_events_per_sec=90
-setprop view.scroll_friction=10
+setprop view.scroll_friction=0
 echo " 🕗 : Enable Touch Improvement            [OK] "
 
 sleep 2
@@ -152,4 +163,4 @@ exit
 
 # ========================================================================
 # Thank you!
-# Update : 20231125 | 12.38
+# Update : 20231128 | 00.32
