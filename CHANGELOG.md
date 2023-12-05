@@ -1,5 +1,10 @@
 <h1 align="center">Changelog :</h1>
 
+### Version 1.0.3-Beta
+
+- Add throttling 90 FPS Mobile Legends Bang Bang
+- Stabilization FPS
+
 ### Version 1.0.2-Beta
 
 - Change stabilization FPS method

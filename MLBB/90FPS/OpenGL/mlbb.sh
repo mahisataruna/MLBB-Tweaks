@@ -18,7 +18,7 @@ echo " "
 # device_config put game_overlay <PACKAGE_NAME>
 # mode=2,downscaleFactor=0.9:mode=3,downscaleFactor=0.5
 # source : https://developer.android.com/games/gamemode/gamemode-interventions
-device_config put game_overlay com.mobile.legends mode=2,opengles=1,downscaleFactor=0.75,fps=60:mode=3,opengles=0,downscaleFactor=0.75,fps=60
+device_config put game_overlay com.mobile.legends mode=2,opengles=1,downscaleFactor=0.75,fps=90:mode=3,opengles=0,downscaleFactor=0.75,fps=90
 echo " 🕗 : Throttling FPS Setting                [OK] "
 sleep 1
 echo " "
