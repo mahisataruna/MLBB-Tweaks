@@ -4,7 +4,7 @@
 # Mobile Legends Bang Bang All Tweaks for Smartphone [root] and [non-root]
 # Name      : MLBB Tweaks Performance
 # Author    : Algorithm Dev / Kreapic (t.me/algorithmdev)
-# Version   : 1.0.2-Beta
+# Version   : 1.0.4-Beta
 
 # ========================================================================
 
@@ -19,7 +19,7 @@ sleep 0.5
 echo "                 Telegram : @algorithmdev                      "
 echo " "
 sleep 0.5
-echo "                     Version 1.0.2-Beta                          "
+echo "                     Version 1.0.4-Beta                          "
 echo " "
 sleep 0.5
 echo " "
@@ -36,6 +36,9 @@ sleep 2
 # Setup performance tunning
 # Disable performance mode  : 0
 # Enable performance mode   : 1
+
+setting put global activity_manager_constants max_cached_processses 3023
+echo "Setup value cached to 3023
 
 setprop debug.performance.tunning 1
 setprop debug.egl.hw 1
@@ -117,9 +120,9 @@ echo " 🕗 : Enable Touch Improvement            [OK] "
 sleep 2
 # Swapinterval
 setprop debug.gr.swapinterval 1
-FPS Stabilizer
-Enable swapinterval   : 1
-Disable swapinterval  : 0
+# FPS Stabilizer
+# Enable swapinterval   : 1
+# Disable swapinterval  : 0
 setprop debug.egl.swapinterval 1
 echo " 🕗 : Setup Screen Framerate              [OK] "
 
@@ -163,4 +166,4 @@ exit
 
 # ========================================================================
 # Thank you!
-# Update : 20231205 | 21.21
+# Update : 20231215 | 02.00
