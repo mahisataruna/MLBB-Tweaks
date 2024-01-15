@@ -1,5 +1,9 @@
 <h1 align="center">Changelog :</h1>
 
+### Version 1.0.5-Beta
+
+- Change setup and stabilization performance
+
 ### Version 1.0.4-Beta
 
 - Add 120 FPS Mobile Legends Bang Bang
