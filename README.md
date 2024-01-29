@@ -3,7 +3,7 @@
 # Mobile Legends Bang Bang All Tweaks for Smartphone [root] and [non-root]
 # Name      : MLBB Tweaks Performance
 # Author    : Algorithm Dev / Kreapic (t.me/algorithmdev)
-# Version   : 1.0.5-Beta
+# Version   : 1.0.6-Beta
 
 # ======================================================================== -->
 <h2 align="center">
@@ -11,7 +11,7 @@
 </h2>
 
 <h1 align="center">MLBB Tweaks</h1>
-<p align="center"><b>Version 1.0.5-Beta</b></p>
+<p align="center"><b>Version 1.0.6-Beta</b></p>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Updated-2024/01/15-blue.svg?longCache=true&style=popout-round"/>

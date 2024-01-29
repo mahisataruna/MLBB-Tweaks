@@ -4,7 +4,7 @@
 # Mobile Legends Bang Bang All Tweaks for Smartphone [root] and [non-root]
 # Name      : MLBB Tweaks Performance
 # Author    : Algorithm Dev / Kreapic (t.me/algorithmdev)
-# Version   : 1.0.5-Beta
+# Version   : 1.0.6-Beta
 
 # ========================================================================
 
@@ -19,7 +19,7 @@ sleep 0.5
 echo "                 Telegram : @algorithmdev                      "
 echo " "
 sleep 0.5
-echo "                     Version 1.0.5-Beta                          "
+echo "                     Version 1.0.6-Beta                          "
 echo " "
 sleep 0.5
 echo " "
@@ -96,7 +96,7 @@ echo " 🕗 : Disable GPU and CPU VSYNC           [OK] "
 sleep 2
 # Enable Touch Improvement / sampling rate
 
-setprop touch.pressure.scale=0.0001
+setprop touch.pressure.scale=0.000
 setprop touch.size.calibration=diameter
 setprop touch.pressure.calibration=amplitude
 setprop touch.size.scale=1
@@ -166,4 +166,4 @@ exit
 
 # ========================================================================
 # Thank you!
-# Update : 20231215 | 02.00
+# Update : 20240130 | 02.00
