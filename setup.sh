@@ -4,7 +4,7 @@
 # Mobile Legends Bang Bang All Tweaks for Smartphone [root] and [non-root]
 # Name      : MLBB Tweaks Performance
 # Author    : Algorithm Dev / Kreapic (t.me/algorithmdev)
-# Version   : 1.0.6-Beta
+# Version   : 1.0.6.1-Beta
 
 # ========================================================================
 
@@ -166,4 +166,4 @@ exit
 
 # ========================================================================
 # Thank you!
-# Update : 20240130 | 02.00
+# Update : 20240222 | 04.39
