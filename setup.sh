@@ -79,7 +79,7 @@ sleep 2
 setprop debug.compotition.type gpu
 setprop debug.compotition.type c2d
 setprop debug.hwui.renderer skiagl
-setprop debug.gr.swapinterval 90
+setprop debug.gr.swapinterval 0
 setprop debug.gr.numframebuffers 3
 setprop debug.egl.buffcount 4
 echo " 🕗 : Enable GPU Turbo Performance        [OK] "
