@@ -33,7 +33,9 @@
 
 ## Download
 
-[![Latest Release v1.0.6.1-Beta / 2024/02/22](https://img.shields.io/badge/Download-Update-blue)](https://safefileku.com/download/x1UvqDnTBXA1w37l)
+Download New Update! [Github](https://github.com/mahisataruna/MLBB-Tweaks) & [Pling](https://www.pling.com/p/2174571/).
+
+[![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/mahisataruna/MLBB-Tweaks) [![Pling](https://img.shields.io/badge/Pling-Products-EB6920.svg?style=flat&logo=kde)](https://www.pling.com/p/2174571/)
 
 ## Installation
 
