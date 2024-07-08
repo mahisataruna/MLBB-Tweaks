@@ -6,9 +6,9 @@
 # Version   : 1.0.6.1-Beta
 
 # ======================================================================== -->
-<h2 align="center">
-<img src="banner.png" style="vertical-align: bottom" width="50%">
-</h2>
+<p align="center">
+  <img src="https://telegra.ph/file/fdb43ff6b15cd9ed2252f.png">
+</p>
 
 <h1 align="center">MLBB Tweaks</h1>
 <p align="center"><b>Version 1.0.6.1-Beta</b></p>
@@ -39,14 +39,26 @@
 
 - Installation Guide [here](https://github.com/mahisataruna/MLBB-Tweaks/blob/v1.0-Beta/Installation-Guide.txt)
 
+```shell
+
+cd MLBB-Tweaks
+chmod +x setup.sh
+sh setup.sh
+
+```
+
 ## Changelog
 
 - Check out what's new [here](https://github.com/mahisataruna/MLBB-Tweaks/blob/v1.0-Beta/CHANGELOG.md)
 
-## Link
-
-[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social)](https://t.me/algorithmdev)
-
 ## Notes
 
 <b>Do With Your Own Risk!</b>
+<br>
+
+<p align="center">
+  <a href="https://t.me/algorithmdev"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
+  <a href="https://t.me/algorithm_dev"><img src="https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&style=social"></a>
+  <br/>
+  Algorithm Tweaks © 2024
+</p>
